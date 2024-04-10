@@ -1,4 +1,5 @@
 # Predictive Modelling for Telecom Churn Management
+![](https://www.insidetelecom.com/wp-content/uploads/2020/11/Telecom-operators-and-reducing-customer-churn.jpg)
 
 ## Overview  
 This project focuses on predicting customer churn using machine learning models. It involves data preprocessing, feature engineering, model selection, and evaluation.
