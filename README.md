@@ -36,8 +36,8 @@ The project is structured into the following sections:
 7. Random Forest Classifier
 8. Logistic Regression
 9. Adaboost
-10.XGBoost
-11.Gradient Boosting
+10. XGBoost
+11. Gradient Boosting
    
 ## How to Run
 To run the project:
